@@ -64,6 +64,6 @@ See the LICENSE file for full license text.
 -----------------------
 Author
 -----------------------
-Developed by [Vasantharan K]  
+Developed by Vasantharan K  
 GitHub: https://github.com/vasantharan  
 Portfolio: https://www.vasantharan.in
